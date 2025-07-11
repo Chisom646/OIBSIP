@@ -7,8 +7,9 @@ It shows how I was able to clean a database by
 2. Removal of missing values
 3. Removal of duplicates
 4. Standardization
-5. Removind outliers
-This was done by the use of libaries such as Pandas in Python.
+5. Removing outliers
+6. Display the structure of the dataset and outliers using boxplot
+This was done by the use of libaries such as Pandas in Python , matplotlib, numpy.
 
 ### Project 2 
 ### 
