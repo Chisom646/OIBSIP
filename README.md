@@ -9,7 +9,7 @@ It shows how I was able to clean a database by
 4. Standardization
 5. Removing outliers
 6. Display the structure of the dataset and outliers using boxplot
-This was done by the use of libaries such as Pandas, matplotlib, numpy in pyhton.
+This was done by the use of libaries such as Pandas, matplotlib, numpy in python.
 
 ### Project 2 
 ### Customer Segmentation Analysis
